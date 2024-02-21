@@ -1,0 +1,441 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap');
+:root {
+    /*colors*/
+    --background-color: #005792;
+    --color-font-size: #EDF9FC;
+}
+* {
+    font-family: 'Inclusive', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #000;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  background-color: var(--background-color);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+  margin-bottom: 5px;
+}
+
+.logo {
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    opacity: 0.8;
+    transform: scale(0.9);
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu-item {
+  margin-right: 20px;
+}
+
+.menu-link {
+  color: var(--color-font-size);
+  text-decoration: none;
+  padding: 3px 7px;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
+
+.menu-link:hover {
+    background: #fff;
+    color: var(--background-color);
+}
+  
+.menu-btn, .close {
+    display: none;
+    cursor: pointer;
+}
+
+  @media (max-width: 768px) {
+    .menu {
+      display: none;
+    }
+  
+    .menu-btn, .close {
+      display: block;
+    }
+  
+    .menu-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+    }
+  }
+  
+
+
+
+
+
+
+.header_banniere {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    padding: 50px;
+}
+
+
+
+.header_banniere h2 {
+margin-top: 20px;
+}
+
+
+.lien_1_bannere {
+    text-decoration: none;
+    color: #fff;
+    width: fit-content;
+    margin: auto;
+    padding: 5px 50px;
+    background: #00497A;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.lien_1_bannere:hover{
+    opacity: 0.8;
+    transform: scale(0.9);
+}
+
+#legend-container {
+    color: #000;
+}
+
+#year-filter {
+    color: #000;
+}
+
+
+#map svg{
+    width: 100%;
+    height: 500px;
+    min-width: 200px;
+}
+
+#map path {
+    stroke: #FFF;
+    stroke-width: 1px;
+}
+
+#map path:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+.margin_0_margin_top_15 {
+    margin: 0;
+    margin-top: 15px;
+}
+
+.margin_0_margin_top_10 {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.margin_0_margin_top_5 {
+    margin: 0;
+    margin-top: 5px;
+}
+
+.margin_0_margin_top_25 {
+    margin: 0;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 13px;
+}
+
+footer {
+    background: #00497A;
+    padding: 25px 100px;
+    color: var(--color-font-size);
+}
+
+footer .colonnes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+ul a {
+    color: var(--color-font-size);
+    text-decoration: none;
+    opacity: 1;
+    margin-right: 5px;
+}
+
+ul a:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 740px) {
+    footer {
+        padding: 15px 50px;
+    }
+
+    footer .colonnes {
+        flex-direction: column;
+    }
+    #pie-chart {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #pie-chart {
+        width: 300px;
+    }
+}
+
+
+#scrollToTopButton {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #fff;
+    color: var(--background-color);
+    border: 2px solid var(--background-color);
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    z-index: 30;
+    transition: transform 0.3s ease;
+  }
+  
+  #scrollToTopButton:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+
+  .btn {
+    display: none;margin: auto;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: var(--background-color);
+    border: 2px solid var(--background-color);
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 15px;
+    text-transform: uppercase;transition: transform 0.3s ease;
+  }
+  
+  .btn:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+
+  .btn-1 {
+    margin: auto;
+    margin-bottom: 50px;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: var(--background-color);
+    border: 2px solid var(--background-color);
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 50px;
+    text-transform: uppercase;transition: transform 0.3s ease;
+  }
+
+  .btn-1:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+
+  #enerviz-container {
+    cursor: pointer; /* Permet de montrer que l'image est cliquable */
+}
+
+#enerviz-image.active {
+    animation: enerviz-wake 1s ease; /* Animation lors du clic */
+}
+
+@keyframes enerviz-wake {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#enerviz-info {
+    border: 2px solid var(--background-color); /* Couleur de fond de la bulle */
+    color: var(--background-color); /* Couleur du texte à l'intérieur de la bulle */
+    border-radius: 10px; /* Coins arrondis de la bulle */
+    padding: 10px 15px; /* Espace à l'intérieur de la bulle */
+    position: relative;
+    display: inline-block;
+    max-width: 70%; /* Largeur maximale de la bulle */
+}
+
+/* 2 */
+
+#enerviz-images.active {
+    animation: enerviz-wakes 1s ease; /* Animation lors du clic */
+}
+
+@keyframes enerviz-wakes {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#enerviz-infos {
+    border: 2px solid var(--background-color); /* Couleur de fond de la bulle */
+    color: var(--background-color); /* Couleur du texte à l'intérieur de la bulle */
+    border-radius: 10px; /* Coins arrondis de la bulle */
+    padding: 10px 15px; /* Espace à l'intérieur de la bulle */
+    position: relative;
+    display: inline-block;
+    max-width: 70%; /* Largeur maximale de la bulle */
+}
+
+
+/* 3 */
+
+#enerviz-imagess.active {
+    animation: enerviz-wake 1s ease; /* Animation lors du clic */
+}
+
+@keyframes enerviz-wake {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#enerviz-infoss {
+    background-color: #fff; /* Couleur de fond de la bulle */
+    color: var(--background-color); /* Couleur du texte à l'intérieur de la bulle */
+    border-radius: 10px; /* Coins arrondis de la bulle */
+    padding: 10px 15px; /* Espace à l'intérieur de la bulle */
+    position: relative;
+    display: inline-block;
+    max-width: 70%; /* Largeur maximale de la bulle */
+}
+
+/* 4 */
+
+#enerviz-imagesss.active {
+    animation: enerviz-wakes 1s ease; /* Animation lors du clic */
+}
+
+@keyframes enerviz-wakes {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#enerviz-infosss {
+    border: 2px solid var(--background-color); /* Couleur de fond de la bulle */
+    color: var(--background-color); /* Couleur du texte à l'intérieur de la bulle */
+    border-radius: 10px; /* Coins arrondis de la bulle */
+    padding: 10px 15px; /* Espace à l'intérieur de la bulle */
+    position: relative;
+    display: inline-block;
+    max-width: 70%; /* Largeur maximale de la bulle */
+}
+
+
+/* 5 */
+
+#enerviz-imagessss.active {
+    animation: enerviz-wake 1s ease; /* Animation lors du clic */
+}
+
+@keyframes enerviz-wake {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#enerviz-infossss {
+    border: 2px solid var(--background-color); /* Couleur de fond de la bulle */
+    color: var(--background-color); /* Couleur du texte à l'intérieur de la bulle */
+    border-radius: 10px; /* Coins arrondis de la bulle */
+    padding: 10px 15px; /* Espace à l'intérieur de la bulle */
+    position: relative;
+    display: inline-block;
+    max-width: 70%; /* Largeur maximale de la bulle */
+}
+
+

@@ -1,0 +1,386 @@
+[
+    {
+      "Départements": "Ain",
+      "Nombre de Bornes": 179
+    },
+    {
+      "Départements": "Aisne",
+      "Nombre de Bornes": 140
+    },
+    {
+      "Départements": "Allier",
+      "Nombre de Bornes": 76
+    },
+    {
+      "Départements": "Alpes-de-Haute-Provence",
+      "Nombre de Bornes": 64
+    },
+    {
+      "Départements": "Hautes-Alpes",
+      "Nombre de Bornes": 116
+    },
+    {
+      "Départements": "Alpes-Maritimes",
+      "Nombre de Bornes": 190
+    },
+    {
+      "Départements": "Ardèche",
+      "Nombre de Bornes": 183
+    },
+    {
+      "Départements": "Ardennes",
+      "Nombre de Bornes": 149
+    },
+    {
+      "Départements": "Ariège",
+      "Nombre de Bornes": 79
+    },
+    {
+      "Départements": "Aube",
+      "Nombre de Bornes": 360
+    },
+    {
+      "Départements": "Aude",
+      "Nombre de Bornes": 450
+    },
+    {
+      "Départements": "Aveyron",
+      "Nombre de Bornes": 78
+    },
+    {
+      "Départements": "Bouches-du-Rhône",
+      "Nombre de Bornes": 944
+    },
+    {
+      "Départements": "Calvados",
+      "Nombre de Bornes": 235
+    },
+    {
+      "Départements": "Cantal",
+      "Nombre de Bornes": 51
+    },
+    {
+      "Départements": "Charente",
+      "Nombre de Bornes": 221
+    },
+    {
+      "Départements": "Charente-Maritime",
+      "Nombre de Bornes": 7
+    },
+    {
+      "Départements": "Cher",
+      "Nombre de Bornes": 47
+    },
+    {
+      "Départements": "Corrèze",
+      "Nombre de Bornes": 12
+    },
+    {
+      "Départements": "Corse-du-Sud",
+      "Nombre de Bornes": 64
+    },
+    {
+      "Départements": "Haute-Corse",
+      "Nombre de Bornes": 54
+    },
+    {
+      "Départements": "Côte-d'Or",
+      "Nombre de Bornes": 20
+    },
+    {
+      "Départements": "Côte-d'Armor",
+      "Nombre de Bornes": 151
+    },
+    {
+      "Départements": "Creuse",
+      "Nombre de Bornes": 3
+    },
+    {
+      "Départements": "Dordogne",
+      "Nombre de Bornes": 358
+    },
+    {
+      "Départements": "Doubs",
+      "Nombre de Bornes": 135
+    },
+    {
+      "Départements": "Drôme",
+      "Nombre de Bornes": 100
+    },
+    {
+      "Départements": "Eure",
+      "Nombre de Bornes": 426
+    },
+    {
+      "Départements": "Eure-et-Loir",
+      "Nombre de Bornes": 339
+    },
+    {
+      "Départements": "Finistère",
+      "Nombre de Bornes": 426
+    },
+    {
+      "Départements": "Gard",
+      "Nombre de Bornes": 398
+    },
+    {
+      "Départements": "Haute-Garonne",
+      "Nombre de Bornes": 786
+    },
+    {
+      "Départements": "Gers",
+      "Nombre de Bornes": 131
+    },
+    {
+      "Départements": "Gironde",
+      "Nombre de Bornes": 773
+    },
+    {
+      "Départements": "Hérault",
+      "Nombre de Bornes": 100
+    },
+    {
+      "Départements": "Ille-et-Vilaine",
+      "Nombre de Bornes": 103
+    },
+    {
+      "Départements": "Indre",
+      "Nombre de Bornes": 450
+    },
+    {
+      "Départements": "Indre-et-Loire",
+      "Nombre de Bornes": 450
+    },
+    {
+      "Départements": "Isère",
+      "Nombre de Bornes": 453
+    },
+    {
+      "Départements": "Jura",
+      "Nombre de Bornes": 87
+    },
+    {
+      "Départements": "Landes",
+      "Nombre de Bornes": 360
+    },
+    {
+      "Départements": "Loir-et-Cher",
+      "Nombre de Bornes": 342
+    },
+    {
+      "Départements": "Loire",
+      "Nombre de Bornes": 214
+    },
+    {
+      "Départements": "Haute-Loire",
+      "Nombre de Bornes": 150
+    },
+    {
+      "Départements": "Loire-Atlantique",
+      "Nombre de Bornes": 207
+    },
+    {
+      "Départements": "Loiret",
+      "Nombre de Bornes": 270
+    },
+    {
+      "Départements": "Lot",
+      "Nombre de Bornes": 4
+    },
+    {
+      "Départements": "Lot-et-Garonne",
+      "Nombre de Bornes": 47
+    },
+    {
+      "Départements": "Lozère",
+      "Nombre de Bornes": 38
+    },
+    {
+      "Départements": "Maine-et-Loire",
+      "Nombre de Bornes": 214
+    },
+    {
+      "Départements": "Manche",
+      "Nombre de Bornes": 148
+    },
+    {
+      "Départements": "Marne",
+      "Nombre de Bornes": 57
+    },
+    {
+      "Départements": "Haute-Marne",
+      "Nombre de Bornes": 40
+    },
+    {
+      "Départements": "Mayenne",
+      "Nombre de Bornes": 51
+    },
+    {
+      "Départements": "Meurthe-et-Moselle",
+      "Nombre de Bornes": 256
+    },
+    {
+      "Départements": "Meuse",
+      "Nombre de Bornes": 176
+    },
+    {
+      "Départements": "Morbihan",
+      "Nombre de Bornes": 358
+    },
+    {
+      "Départements": "Moselle",
+      "Nombre de Bornes": 319
+    },
+    {
+      "Départements": "Nièvre",
+      "Nombre de Bornes": 88
+    },
+    {
+      "Départements": "Nord",
+      "Nombre de Bornes": 1109
+    },
+    {
+      "Départements": "Oise",
+      "Nombre de Bornes": 419
+    },
+    {
+      "Départements": "Orne",
+      "Nombre de Bornes": 157
+    },
+    {
+      "Départements": "Pas-de-Calais",
+      "Nombre de Bornes": 636
+    },
+    {
+      "Départements": "Puy-de-Dôme",
+      "Nombre de Bornes": 272
+    },
+    {
+      "Départements": "Pyrénées-Atlantiques",
+      "Nombre de Bornes": 468
+    },
+    {
+      "Départements": "Hautes-Pyrénées",
+      "Nombre de Bornes": 127
+    },
+    {
+      "Départements": "Pyrénées-Orientales",
+      "Nombre de Bornes": 242
+    },
+    {
+      "Départements": "Bas-Rhin",
+      "Nombre de Bornes": 481
+    },
+    {
+      "Départements": "Haut-Rhin",
+      "Nombre de Bornes": 217
+    },
+    {
+      "Départements": "Rhône",
+      "Nombre de Bornes": 600
+    },
+    {
+      "Départements": "Haute-Saône",
+      "Nombre de Bornes": 67
+    },
+    {
+      "Départements": "Saône-et-Loire",
+      "Nombre de Bornes": 159
+    },
+    {
+      "Départements": "Sarthe",
+      "Nombre de Bornes": 168
+    },
+    {
+      "Départements": "Savoie",
+      "Nombre de Bornes": 291
+    },
+    {
+      "Départements": "Haute-Savoie",
+      "Nombre de Bornes": 433
+    },
+    {
+      "Départements": "Paris",
+      "Nombre de Bornes": 875
+    },
+    {
+      "Départements": "Seine-Maritime",
+      "Nombre de Bornes": 395
+    },
+    {
+      "Départements": "Seine-et-Marne",
+      "Nombre de Bornes": 556
+    },
+    {
+      "Départements": "Yvelines",
+      "Nombre de Bornes": 585
+    },
+    {
+      "Départements": "Deux-Sèvres",
+      "Nombre de Bornes": 170
+    },
+    {
+      "Départements": "Somme",
+      "Nombre de Bornes": 276
+    },
+    {
+      "Départements": "Tarn",
+      "Nombre de Bornes": 170
+    },
+    {
+      "Départements": "Tarn-et-Garonne",
+      "Nombre de Bornes": 250
+    },
+    {
+      "Départements": "Var",
+      "Nombre de Bornes": 465
+    },
+    {
+      "Départements": "Vaucluse",
+      "Nombre de Bornes": 263
+    },
+    {
+      "Départements": "Vendée",
+      "Nombre de Bornes": 282
+    },
+    {
+      "Départements": "Vienne",
+      "Nombre de Bornes": 226
+    },
+    {
+      "Départements": "Haute-Vienne",
+      "Nombre de Bornes": 97
+    },
+    {
+      "Départements": "Vosges",
+      "Nombre de Bornes": 141
+    },
+    {
+      "Départements": "Yonne",
+      "Nombre de Bornes": 342
+    },
+    {
+      "Départements": "Territoire de Belfort",
+      "Nombre de Bornes": 62
+    },
+    {
+      "Départements": "Essonne",
+      "Nombre de Bornes": 561
+    },
+    {
+      "Départements": "Hauts-de-Seine",
+      "Nombre de Bornes": 483
+    },
+    {
+      "Départements": "Seine-Saint-Denis",
+      "Nombre de Bornes": 248
+    },
+    {
+      "Départements": "Val-de-Marne",
+      "Nombre de Bornes": 353
+    },
+    {
+      "Départements": "Val-d'Oise",
+      "Nombre de Bornes": 360
+    }
+  ]

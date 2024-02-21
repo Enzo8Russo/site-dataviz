@@ -1,0 +1,386 @@
+[
+  {
+    "department": "Ain",
+    "nbrDeBornes": 179
+  },
+  {
+    "department": "Aisne",
+    "nbrDeBornes": 140
+  },
+  {
+    "department": "Allier",
+    "nbrDeBornes": 76
+  },
+  {
+    "department": "Alpes-de-Haute-Provence",
+    "nbrDeBornes": 64
+  },
+  {
+    "department": "Hautes-Alpes",
+    "nbrDeBornes": 116
+  },
+  {
+    "department": "Alpes-Maritimes",
+    "nbrDeBornes": 190
+  },
+  {
+    "department": "Ardèche",
+    "nbrDeBornes": 183
+  },
+  {
+    "department": "Ardennes",
+    "nbrDeBornes": 149
+  },
+  {
+    "department": "Ariège",
+    "nbrDeBornes": 79
+  },
+  {
+    "department": "Aube",
+    "nbrDeBornes": 360
+  },
+  {
+    "department": "Aude",
+    "nbrDeBornes": 450
+  },
+  {
+    "department": "Aveyron",
+    "nbrDeBornes": 78
+  },
+  {
+    "department": "Bouches-du-Rhône",
+    "nbrDeBornes": 944
+  },
+  {
+    "department": "Calvados",
+    "nbrDeBornes": 235
+  },
+  {
+    "department": "Cantal",
+    "nbrDeBornes": 51
+  },
+  {
+    "department": "Charente",
+    "nbrDeBornes": 221
+  },
+  {
+    "department": "Charente-Maritime",
+    "nbrDeBornes": 7
+  },
+  {
+    "department": "Cher",
+    "nbrDeBornes": 47
+  },
+  {
+    "department": "Corrèze",
+    "nbrDeBornes": 12
+  },
+  {
+    "department": "Corse-du-Sud",
+    "nbrDeBornes": 64
+  },
+  {
+    "department": "Haute-Corse",
+    "nbrDeBornes": 54
+  },
+  {
+    "department": "Côte-d'Or",
+    "nbrDeBornes": 20
+  },
+  {
+    "department": "Côte-d'Armor",
+    "nbrDeBornes": 151
+  },
+  {
+    "department": "Creuse",
+    "nbrDeBornes": 3
+  },
+  {
+    "department": "Dordogne",
+    "nbrDeBornes": 358
+  },
+  {
+    "department": "Doubs",
+    "nbrDeBornes": 135
+  },
+  {
+    "department": "Drôme",
+    "nbrDeBornes": 100
+  },
+  {
+    "department": "Eure",
+    "nbrDeBornes": 426
+  },
+  {
+    "department": "Eure-et-Loir",
+    "nbrDeBornes": 339
+  },
+  {
+    "department": "Finistère",
+    "nbrDeBornes": 426
+  },
+  {
+    "department": "Gard",
+    "nbrDeBornes": 398
+  },
+  {
+    "department": "Haute-Garonne",
+    "nbrDeBornes": 786
+  },
+  {
+    "department": "Gers",
+    "nbrDeBornes": 131
+  },
+  {
+    "department": "Gironde",
+    "nbrDeBornes": 773
+  },
+  {
+    "department": "Hérault",
+    "nbrDeBornes": 100
+  },
+  {
+    "department": "Ille-et-Vilaine",
+    "nbrDeBornes": 103
+  },
+  {
+    "department": "Indre",
+    "nbrDeBornes": 450
+  },
+  {
+    "department": "Indre-et-Loire",
+    "nbrDeBornes": 450
+  },
+  {
+    "department": "Isère",
+    "nbrDeBornes": 453
+  },
+  {
+    "department": "Jura",
+    "nbrDeBornes": 87
+  },
+  {
+    "department": "Landes",
+    "nbrDeBornes": 360
+  },
+  {
+    "department": "Loir-et-Cher",
+    "nbrDeBornes": 342
+  },
+  {
+    "department": "Loire",
+    "nbrDeBornes": 214
+  },
+  {
+    "department": "Haute-Loire",
+    "nbrDeBornes": 150
+  },
+  {
+    "department": "Loire-Atlantique",
+    "nbrDeBornes": 207
+  },
+  {
+    "department": "Loiret",
+    "nbrDeBornes": 270
+  },
+  {
+    "department": "Lot",
+    "nbrDeBornes": 4
+  },
+  {
+    "department": "Lot-et-Garonne",
+    "nbrDeBornes": 47
+  },
+  {
+    "department": "Lozère",
+    "nbrDeBornes": 38
+  },
+  {
+    "department": "Maine-et-Loire",
+    "nbrDeBornes": 214
+  },
+  {
+    "department": "Manche",
+    "nbrDeBornes": 148
+  },
+  {
+    "department": "Marne",
+    "nbrDeBornes": 57
+  },
+  {
+    "department": "Haute-Marne",
+    "nbrDeBornes": 40
+  },
+  {
+    "department": "Mayenne",
+    "nbrDeBornes": 51
+  },
+  {
+    "department": "Meurthe-et-Moselle",
+    "nbrDeBornes": 256
+  },
+  {
+    "department": "Meuse",
+    "nbrDeBornes": 176
+  },
+  {
+    "department": "Morbihan",
+    "nbrDeBornes": 358
+  },
+  {
+    "department": "Moselle",
+    "nbrDeBornes": 319
+  },
+  {
+    "department": "Nièvre",
+    "nbrDeBornes": 88
+  },
+  {
+    "department": "Nord",
+    "nbrDeBornes": 1109
+  },
+  {
+    "department": "Oise",
+    "nbrDeBornes": 419
+  },
+  {
+    "department": "Orne",
+    "nbrDeBornes": 157
+  },
+  {
+    "department": "Pas-de-Calais",
+    "nbrDeBornes": 636
+  },
+  {
+    "department": "Puy-de-Dôme",
+    "nbrDeBornes": 272
+  },
+  {
+    "department": "Pyrénées-Atlantiques",
+    "nbrDeBornes": 468
+  },
+  {
+    "department": "Hautes-Pyrénées",
+    "nbrDeBornes": 127
+  },
+  {
+    "department": "Pyrénées-Orientales",
+    "nbrDeBornes": 242
+  },
+  {
+    "department": "Bas-Rhin",
+    "nbrDeBornes": 481
+  },
+  {
+    "department": "Haut-Rhin",
+    "nbrDeBornes": 217
+  },
+  {
+    "department": "Rhône",
+    "nbrDeBornes": 600
+  },
+  {
+    "department": "Haute-Saône",
+    "nbrDeBornes": 67
+  },
+  {
+    "department": "Saône-et-Loire",
+    "nbrDeBornes": 159
+  },
+  {
+    "department": "Sarthe",
+    "nbrDeBornes": 168
+  },
+  {
+    "department": "Savoie",
+    "nbrDeBornes": 291
+  },
+  {
+    "department": "Haute-Savoie",
+    "nbrDeBornes": 433
+  },
+  {
+    "department": "Paris",
+    "nbrDeBornes": 875
+  },
+  {
+    "department": "Seine-Maritime",
+    "nbrDeBornes": 395
+  },
+  {
+    "department": "Seine-et-Marne",
+    "nbrDeBornes": 556
+  },
+  {
+    "department": "Yvelines",
+    "nbrDeBornes": 585
+  },
+  {
+    "department": "Deux-Sèvres",
+    "nbrDeBornes": 170
+  },
+  {
+    "department": "Somme",
+    "nbrDeBornes": 276
+  },
+  {
+    "department": "Tarn",
+    "nbrDeBornes": 170
+  },
+  {
+    "department": "Tarn-et-Garonne",
+    "nbrDeBornes": 250
+  },
+  {
+    "department": "Var",
+    "nbrDeBornes": 465
+  },
+  {
+    "department": "Vaucluse",
+    "nbrDeBornes": 263
+  },
+  {
+    "department": "Vendée",
+    "nbrDeBornes": 282
+  },
+  {
+    "department": "Vienne",
+    "nbrDeBornes": 226
+  },
+  {
+    "department": "Haute-Vienne",
+    "nbrDeBornes": 97
+  },
+  {
+    "department": "Vosges",
+    "nbrDeBornes": 141
+  },
+  {
+    "department": "Yonne",
+    "nbrDeBornes": 342
+  },
+  {
+    "department": "Territoire de Belfort",
+    "nbrDeBornes": 62
+  },
+  {
+    "department": "Essonne",
+    "nbrDeBornes": 561
+  },
+  {
+    "department": "Hauts-de-Seine",
+    "nbrDeBornes": 483
+  },
+  {
+    "department": "Seine-Saint-Denis",
+    "nbrDeBornes": 248
+  },
+  {
+    "department": "Val-de-Marne",
+    "nbrDeBornes": 353
+  },
+  {
+    "department": "Val-d'Oise",
+    "nbrDeBornes": 360
+  }
+]
